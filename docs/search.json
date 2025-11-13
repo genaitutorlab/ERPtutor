@@ -21,9 +21,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
+    "title": "Project Overview",
     "section": "",
-    "text": "The GenAI Tutor is an LLM-enabled learning prototype designed to transform how students engage with ERP and enterprise systems in higher education. The prototype generates dynamic business scenarios, delivers interactive tutoring, and provides concept-level learning analytics for instructors. Our goal is to make enterprise software education more authentic, personalized, and scalable across diverse educational environments."
+    "text": "The GenAI Tutor is an LLM-enabled learning prototype designed to transform how students engage with ERP and enterprise systems in higher education. The prototype generates dynamic business scenarios, delivers interactive tutoring, and provides concept-level learning analytics for instructors. Our goal is to make enterprise software education more authentic, personalized, and scalable across diverse educational environments.\n\n\n  Your browser does not support the video tag. \n\n\n\nKey Features\n\nDynamic Scenario Generation: Personalized step-by-step SAP instructions based on learner background.\nInteractive LLM Tutoring: Real-time explanations, clarifications, and on-demand support.\nLearning Analytics Dashboard: Instructor-level tracking and feedback.\nScalable AI Instruction Prototype: Cloud-based, modular architecture integrating AWS and LLM APIs for scalable, reliable deployment."
   },
   {
     "objectID": "ai-infrastructure.html",
@@ -47,6 +47,17 @@
       "Home",
       "Key Features",
       "Interactive LLM Tutoring"
+    ]
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "Your browser does not support the video tag.",
+    "crumbs": [
+      "Home",
+      "Project Overview"
     ]
   },
   {
