@@ -1,7 +1,19 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "scenario-generation.html",
+    "href": "scenario-generation.html",
+    "title": "Dynamic Scenario Generation",
+    "section": "",
+    "text": "The dynamic scenario generation engine produces personalized SAP/ERP business cases based on learners’ backgrounds, prior performance, and interaction patterns with the GenAI Tutor. It selects contextual parameters such as industry, organization size, transaction type, and data complexity to tailor each scenario to the learner’s needs. The system integrates structured prompt templates with LLM-driven variability to create realistic process tasks across modules. This customization helps students engage more deeply with enterprise concepts while reducing reliance on static, one-size-fits-all instructional materials.\n\n\n  Your browser does not support the video tag.",
+    "crumbs": [
+      "Home",
+      "Key Features",
+      "Dynamic Scenario Generation"
+    ]
+  },
+  {
+    "objectID": "contact_us.html",
+    "href": "contact_us.html",
     "title": "Contact Us",
     "section": "",
     "text": "For inquiries or collaboration opportunities, please contact us at genaitutorlab@outlook.com."
@@ -14,29 +26,44 @@
     "text": "The GenAI Tutor is an LLM-enabled learning prototype designed to transform how students engage with ERP and enterprise systems in higher education. The prototype generates dynamic business scenarios, delivers interactive tutoring, and provides concept-level learning analytics for instructors. Our goal is to make enterprise software education more authentic, personalized, and scalable across diverse educational environments."
   },
   {
-    "objectID": "index.html#dynamic-scenario-generation",
-    "href": "index.html#dynamic-scenario-generation",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
-    "section": "Dynamic Scenario Generation",
-    "text": "Dynamic Scenario Generation\nThe dynamic scenario generation engine produces personalized SAP/ERP business cases based on learners’ backgrounds, prior performance, and interaction patterns with the GenAI Tutor. It selects contextual parameters such as industry, organization size, transaction type, and data complexity to tailor each scenario to the learner’s needs. The system integrates structured prompt templates with LLM-driven variability to create realistic process tasks across modules. This customization helps students engage more deeply with enterprise concepts while reducing reliance on static, one-size-fits-all instructional materials."
+    "objectID": "ai-infrastructure.html",
+    "href": "ai-infrastructure.html",
+    "title": "Scalable AI Instruction Prototype",
+    "section": "",
+    "text": "The scalable AI instruction prototype provides a modular, cloud-based infrastructure that supports flexible deployment across ERP and enterprise systems courses. It integrates AWS EC2/RDS services with LLM APIs to manage computation, data storage, and model interaction reliably. The architecture separates presentation, logic, and analytics layers, enabling seamless updates, feature expansion, and cross-platform compatibility. This design ensures that the system can be adopted across different courses, programs, and institutions with minimal configuration effort.",
+    "crumbs": [
+      "Home",
+      "Key Features",
+      "Scalable AI Instruction Prototype"
+    ]
   },
   {
-    "objectID": "index.html#real-time-support",
-    "href": "index.html#real-time-support",
-    "title": "ERP Tutor",
-    "section": "Real-Time Support",
-    "text": "Real-Time Support"
+    "objectID": "llm-tutoring.html",
+    "href": "llm-tutoring.html",
+    "title": "Interactive LLM Tutoring",
+    "section": "",
+    "text": "The interactive tutoring component provides guided, context-aware support as learners work through SAP/ERP tasks. The GenAI Tutor interprets student questions, identifies the underlying process step or concept, and responds with targeted hints rather than complete solutions. It adapts explanations based on the learner’s prior actions, error patterns, and demonstrated understanding. By combining procedural knowledge with natural language interaction, the system helps students navigate complex enterprise processes while promoting conceptual reasoning instead of rote follow-along execution.\n\n\n  Your browser does not support the video tag.",
+    "crumbs": [
+      "Home",
+      "Key Features",
+      "Interactive LLM Tutoring"
+    ]
   },
   {
-    "objectID": "index.html#collaboration",
-    "href": "index.html#collaboration",
-    "title": "ERP Tutor",
-    "section": "Collaboration",
-    "text": "Collaboration"
+    "objectID": "analytics-dashboard.html",
+    "href": "analytics-dashboard.html",
+    "title": "Learning Analytics Dashboard",
+    "section": "",
+    "text": "The instructor dashboard visualizes learner engagement and performance patterns generated through interactions with the GenAI Tutor. It summarizes key metrics such as active learners, session time, completion rate, and concept mastery. The dashboard integrates time-series activity trends, module-level progress charts, and detailed logs of learner actions. These analytics enable instructors to quickly identify learning bottlenecks, monitor class-wide progress, and adjust instruction accordingly.\n\n\n\n\nLearning Analytics Dashboard",
+    "crumbs": [
+      "Home",
+      "Key Features",
+      "Learning Analytics Dashboard"
+    ]
   },
   {
-    "objectID": "contact_us.html",
-    "href": "contact_us.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Contact Us",
     "section": "",
     "text": "For inquiries or collaboration opportunities, please contact us at genaitutorlab@outlook.com."
@@ -47,33 +74,5 @@
     "title": "Teams",
     "section": "",
     "text": "Our project is supported by a multidisciplinary team with expertise in MIS, ERP instruction, curriculum design, and educational evaluation. The team collaboratively oversees prototype development, research design, and system assessment to ensure that the project remains pedagogically rigorous, technically robust, and scalable across diverse educational settings."
-  },
-  {
-    "objectID": "index.html#features",
-    "href": "index.html#features",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
-    "section": "Features",
-    "text": "Features\nDynamic Scenario Generation\nCreates customized SAP/ERP business cases based on learner interests, performance, and context.\nInteractive LLM Tutoring\nProvides guided, context-aware assistance for ERP tasks through natural language interaction.\nConcept-Level Feedback\nIdentifies challenging concepts (e.g., document flow, master data, item categories) from learner–LLM interactions.\nLearning Analytics Dashboard\nAggregates behavior patterns, error types, and help-seeking logs for instructors.\nSAP/ERP Process Support\nCovers multiple modules (e.g., SD, MM, FI) with prompt templates and process logic.\nScalable AI Instruction Model\nImplements a modular architecture using AWS EC2/RDS and LLM APIs for cross-course and cross-institution use. ."
-  },
-  {
-    "objectID": "index.html#interactive-llm-tutoring",
-    "href": "index.html#interactive-llm-tutoring",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
-    "section": "Interactive LLM Tutoring",
-    "text": "Interactive LLM Tutoring\nThe interactive tutoring component provides guided, context-aware support as learners work through SAP/ERP tasks. The GenAI Tutor interprets student questions, identifies the underlying process step or concept, and responds with targeted hints rather than complete solutions. It adapts explanations based on the learner’s prior actions, error patterns, and demonstrated understanding. By combining procedural knowledge with natural language interaction, the system helps students navigate complex enterprise processes while promoting conceptual reasoning instead of rote follow-along execution."
-  },
-  {
-    "objectID": "index.html#learning-analytics-dashboard",
-    "href": "index.html#learning-analytics-dashboard",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
-    "section": "Learning Analytics Dashboard",
-    "text": "Learning Analytics Dashboard\nThe instructor dashboard visualizes learner engagement and performance patterns generated through interactions with the GenAI Tutor. It summarizes key metrics such as active learners, session time, completion rate, and concept mastery. The dashboard integrates time-series activity trends, module-level progress charts, and detailed logs of learner actions. These analytics enable instructors to quickly identify learning bottlenecks, monitor class-wide progress, and adjust instruction accordingly.\n\n\n\n\nLearning Analytics Dashboard\n\n\n\n\nScalable AI Instruction Prototype\nThe scalable AI instruction prototype provides a modular, cloud-based infrastructure that supports flexible deployment across ERP and enterprise systems courses. It integrates AWS EC2/RDS services with LLM APIs to manage computation, data storage, and model interaction reliably. The architecture separates presentation, logic, and analytics layers, enabling seamless updates, feature expansion, and cross-platform compatibility. This design ensures that the system can be adopted across different courses, programs, and institutions with minimal configuration effort."
-  },
-  {
-    "objectID": "index.html#scalable-ai-instruction-prototpye",
-    "href": "index.html#scalable-ai-instruction-prototpye",
-    "title": "ERP Tutor: A Generative AI–Enabled Learning Prototype for Higher Education",
-    "section": "Scalable AI Instruction Prototpye",
-    "text": "Scalable AI Instruction Prototpye\nImplements a modular architecture using AWS EC2/RDS and LLM APIs for cross-course and cross-institution use. ."
   }
 ]
